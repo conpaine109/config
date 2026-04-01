@@ -1,3 +1,4 @@
+alias python=python3
 export PATH="/Library/Frameworks/Python.framework/Versions/3.12/bin:$PATH"
 export CLICOLOR=1
 export PS1=$'cjp:\e[0;36m%~\e[0m$ '
