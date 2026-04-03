@@ -6,4 +6,5 @@ set ai
 set number
 set hlsearch
 set ruler
-highlight Comment ctermfg=green
+set termguicolors
+colorscheme unokai 
