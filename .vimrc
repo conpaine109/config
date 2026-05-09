@@ -6,5 +6,4 @@ set ai
 set number
 set hlsearch
 set ruler
-set termguicolors
 colorscheme unokai 
